@@ -15,7 +15,7 @@
             </composer>
             <respStmt xml:id="rhap9kh1">
                <resp xml:id="rujehp2">Transcription and MEI encoding from the scanned print</resp>
-               <persName xml:id="Werner_Goebl" role="encoder">Werner Goebl</persName>
+               <persName xml:id="Werner_Goebl" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1053306199" role="encoder">Werner Goebl</persName>
                <name xml:id="nyfsoha1"/>
             </respStmt>
          </titleStmt>
