@@ -7,8 +7,7 @@
 			<titleStmt xml:id="ttgbol2">
 				<title xml:id="thlo09q2" type="main">Radetzky-Marsch</title>
 				<title xml:id="tiwj14r2" type="subordinate">zu Ehren des grossen Feldherrn. Für das Piano-Forte, op. 228</title>
-				<title xml:id="tb76h7a" type="desc">MEI encoding of the edition for piano two hands (Wien: Tobias Haslinger's Witwe & Sohn, plate T.H. 10,996)
-				</title>
+				<title xml:id="tb76h7a" type="desc">MEI encoding of the edition for piano two hands (Wien: Tobias Haslinger's Witwe &amp; Sohn, plate T.H. 10,996)</title>
 				<composer xml:id="c1vd5fy1">
 					<persName xml:id="p7irmy4" role="cmp">Johann Strauss (Vater)</persName>
 				</composer>
@@ -26,12 +25,11 @@
 			<sourceDesc xml:id="saantso2">
 				<source xml:id="sej0zhw2">
 					<bibl xml:id="big4wa4">
-						<title xml:id="teprjq2">Radetzky-Marsch, zu Ehren des grossen Feldherrn. Für das Piano-Forte componirt und der k.k. Armee gewidmet von Johann Strauss. 228. Werk
-						</title>
+						<title xml:id="teprjq2">Radetzky-Marsch, zu Ehren des grossen Feldherrn. Für das Piano-Forte componirt und der k.k. Armee gewidmet von Johann Strauss. 228. Werk</title>
 						<composer xml:id="ct2ahru1">Johann Strauss</composer>
 						<imprint xml:id="imvy2gh1">
 							<pubPlace xml:id="ptguhoj2">Wien</pubPlace>
-							<publisher xml:id="pueaxsj2">Tobias Haslinger's Witwe & Sohn</publisher>
+							<publisher xml:id="pueaxsj2">Tobias Haslinger's Witwe &amp; Sohn</publisher>
 						</imprint>
 						<identifier xml:id="iw94g61" type="plateNumber">T.H. 10,996</identifier>
 						<identifier xml:id="iq0l4ys1" type="IMSLP">IMSLP322630-PMLP68787</identifier>
