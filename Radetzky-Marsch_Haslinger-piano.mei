@@ -39,7 +39,10 @@
 		</fileDesc>
 		<encodingDesc xml:id="e3k7sng">
 			<appInfo xml:id="axj9v3b">
-				<application xml:id="a88i9cy2" enddate="2026-11-16T18:38:22" startdate="2026-11-13T22:49:32" version="1.6.0">
+			   <application startdate="2026-11-16T21:00:11" enddate="2026-11-16T21:31:25" version="5.2">
+        	       <name>Claude Faible (Anthropic)</name>
+            	</application>
+        		<application xml:id="a88i9cy2" enddate="2026-11-16T18:38:22" startdate="2026-11-13T22:49:32" version="1.6.0">
 					<name xml:id="nq5gvy9">mei-friend</name>
 					<p xml:id="ph58zki1">First edit by mei-friend 1.6.0.</p>
 				</application>
